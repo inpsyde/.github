@@ -1,4 +1,4 @@
-# GitHub templates
+# :octocat: GitHub templates
 A collection of GitHub issue and pull request (PR) templates
 
 ## Multiple Issue and PR Templates

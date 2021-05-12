@@ -11,7 +11,7 @@ GitHub supports [multiple issue templates](https://help.github.com/articles/abou
 [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 
 ## License and copyright
-Copyright (c) 2021 Inpsyde GmbH.
+Copyright (c) Inpsyde GmbH.
 
 Wonolog code is licensed under [MIT license](./LICENSE).
 

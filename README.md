@@ -1,6 +1,9 @@
 # :octocat: GitHub templates
 A collection of GitHub issue and pull request (PR) templates
 
+## Supported file types
+GitHub supports [this file types](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file#supported-file-types)
+
 ## Multiple issue and PR Templates
 GitHub supports [multiple issue templates](https://help.github.com/articles/about-issue-and-pull-request-templates/).
 

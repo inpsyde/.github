@@ -41,10 +41,10 @@ Before you submit your Pull Request (PR) consider the following guidelines:
 
 ## <a name="commit"></a> Commit Message Format
 
-*This specification is inspired by and supersedes the [AngularJS commit message format][commit-message-format].*
+When working on this repository, we encourage you to adhere to the following commit message format. Following this convention will lead to an **easier to read commit history** and is especially helpful in projects that use automated release versioning.
 
-We have very precise rules over how our Git commit messages must be formatted.
-This format leads to **easier to read commit history**.
+*Note: commit message formats are still under review at Inpsyde, so do not be surprised if you different formats being used in our projects. The most important thing to remember is to write clear and concise commit messages. The following specification helps you do exactly that. It is inspired by the [AngularJS commit message format][commit-message-format]. For more information, see [https://www.conventionalcommits.org](https://www.conventionalcommits.org).*
+
 
 Each commit message consists of a **header**, a **body**, and a **footer**.
 

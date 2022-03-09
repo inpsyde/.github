@@ -39,11 +39,11 @@ body:
     id: environment
     attributes:
       label: Environment info
-      description: |
-        placeholder: |
-          - Package version
-          - Browser(s) are you seeing the problem on
-          - Device you are using and operating system
+      description: Please specify what system you are using.
+      placeholder: |
+        - Package version
+        - Browser(s) are you seeing the problem on
+        - Device you are using and operating system
     validations:
       required: false
   - type: textarea

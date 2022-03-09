@@ -1,0 +1,28 @@
+name: Contribute documentation
+description: Help us keep the documentation healthy and up to date
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Contributions to the documentation are very welcome!**
+        - Have you found any typos or grammatical errors, or do you think that some wording in the documentation needs to be improved?
+        - Do you think that there is something important that is not documented?
+        - Are there parts of the documentation that you found difficult to follow or understand?
+        If you found a bug, you don't need to open a issue. Simply for the repository, make your changes, and create a PR.
+        If you cannot make the changes yourself, please only open an issue if you think the problem is relevant Avoid opening an issue for a single typo or missing space or similar.
+  - type: textarea
+    id: documentation
+    attributes:
+      label: Description of the bug
+      description: A clear and concise description of what should be improved in the documentation.
+      placeholder: |
+        The documentation says that feature '…' should be used as follows '…', but actually it should be used as follows: '…'.
+  - type: checkboxes
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/inpsyde/.github/blob/master/CODE_OF_CONDUCT.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true

@@ -16,6 +16,6 @@ GitHub supports [multiple issue templates](https://help.github.com/articles/abou
 ## License and copyright
 Copyright (c) Inpsyde GmbH.
 
-Wonolog code is licensed under [MIT license](./LICENSE).
+The repository is licensed under [MIT license](./LICENSE).
 
 The team at [Inpsyde](https://inpsyde.com) is engineering the Web since 2006.

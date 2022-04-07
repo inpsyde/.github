@@ -2,9 +2,9 @@ name: PHP CS
 
 on:
   workflow_call:
-    secrets:
-      PACKAGIST_TOKEN:
-        required: true
+   # secrets:
+   #   PACKAGIST_TOKEN:
+   #     required: true
 
 jobs:
   php-cs:
@@ -19,8 +19,8 @@ jobs:
         with:
           php-version: 7.4
 
-      - name: Packagist.com Auth
-        run: composer config --global --auth http-basic.repo.packagist.com token ${{ secrets.PACKAGIST_TOKEN }}
+      #- name: Packagist.com Auth
+      #  run: composer config --global --auth http-basic.repo.packagist.com token ${{ secrets.PACKAGIST_TOKEN }}
 
       - name: Validate composer.json and composer.lock
         run: composer validate

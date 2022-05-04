@@ -1,6 +1,6 @@
 ### Hi, We are Inpsyde 👋
 
-![Inpsyde Welcome](https://raw.githubusercontent.com/inpsyde/inpsyde/master/inpsyde.jpg?raw=true)
+![Inpsyde Welcome](https://raw.githubusercontent.com/inpsyde/.github/master/profile/inpsyde.jpg?raw=true)
 
 ## More
 :page_with_curl: Our site [inpsyde.com](https://inpsyde.com/)<br>

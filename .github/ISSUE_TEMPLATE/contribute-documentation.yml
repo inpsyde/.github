@@ -15,7 +15,7 @@ body:
   - type: textarea
     id: documentation
     attributes:
-      label: Description of the bug
+      label: Description of the improvement
       description: A clear and concise description of what should be improved in the documentation.
       placeholder: |
         The documentation says that feature '…' should be used as follows '…', but actually it should be used as follows: '…'.

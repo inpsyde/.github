@@ -54,5 +54,5 @@ When working on this repository, we encourage you to follow the [7 rules of a gr
 6. Wrap the body at 72 characters
 7. Use the body to explain what and why vs. how
 
-While our company standard is based upon these seven rules, we do not enforce any commit message format standard at Inpsyde. Do not be surprised if you encounter slightly different formats being used in our projects. For example: we do allow prefixes in the commit message header like 'fix:' or 'feat:', as prescribed by [Conventional Commits](https://www.conventionalcommits.org), on repositories that rely on it for release automation. 
+While our company standard is based upon these seven rules, do not be surprised if you encounter slightly different formats being used in our projects. Some of our public projects were created years ago, in a time where we did many things differently, including the composition of commit messages. Currently, we also allow prefixes in the commit message header for repositories that rely on those prefixes for release automation. Still, this is something you might not see in use on the repository you may be interested in.  
 The most important thing to remember is to use common sense and write clear and concise commit messages.

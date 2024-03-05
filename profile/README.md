@@ -4,4 +4,4 @@
 
 ## More
 :page_with_curl: Our site [syde.com](https://syde.com/)<br>
-:speech_balloon: On Twitter [syde](https://twitter.com/syde)<br>
+:speech_balloon: On Twitter [inpsyde](https://twitter.com/inpsyde)<br>

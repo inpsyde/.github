@@ -1,7 +1,7 @@
-### Hi, We are Inpsyde 👋
+### Hi, We are Syde 👋
 
-![Inpsyde Welcome](https://raw.githubusercontent.com/inpsyde/.github/master/profile/inpsyde.jpg?raw=true)
+![Syde Welcome](https://raw.githubusercontent.com/syde/.github/master/profile/header.jpg?raw=true)
 
 ## More
-:page_with_curl: Our site [inpsyde.com](https://inpsyde.com/)<br>
-:speech_balloon: On Twitter [inpsyde](https://twitter.com/inpsyde)<br>
+:page_with_curl: Our site [syde.com](https://syde.com/)<br>
+:speech_balloon: On Twitter [syde](https://twitter.com/syde)<br>

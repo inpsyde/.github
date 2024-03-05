@@ -14,8 +14,4 @@ GitHub supports [multiple issue templates](https://help.github.com/articles/abou
 [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 
 ## License and copyright
-Copyright (c) Inpsyde GmbH.
-
-The repository is licensed under [MIT license](./LICENSE).
-
-The team at [Inpsyde](https://inpsyde.com) is engineering the Web since 2006.
+This repository is a free software, and is released under the terms of the MIT license. See [LICENSE](./LICENSE) for complete license.

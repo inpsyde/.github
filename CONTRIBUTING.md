@@ -1,9 +1,9 @@
 # Contributing
 
-First of all, thank you for your interest in contributing to (one of) Inpsyde's public repos. We greatly appreciate your feedback, suggestions and code contributions. 
+First of all, thank you for your interest in contributing to (one of) Syde's public repos. We greatly appreciate your feedback, suggestions and code contributions. 
 When contributing to any repository, please first discuss the change you wish to make with the owners of this repository via an Issue, a Pull Request, or both.
 
-Since Inpsyders need to prioritize their day-to-day work for our client projects and products over the maintenance of public repositories, the responsible maintainers might not be able to respond to your requests or comments straight away. Still, as a rule, we try to respond to requests within a week. If you have been waiting for longer than two weeks, it's OK to post a friendly reminder in the issue thread.
+Since Syders need to prioritize their day-to-day work for our client projects and products over the maintenance of public repositories, the responsible maintainers might not be able to respond to your requests or comments straight away. Still, as a rule, we try to respond to requests within a week. If you have been waiting for longer than two weeks, it's OK to post a friendly reminder in the issue thread.
 
 On that note: we have a [code of conduct](./CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 

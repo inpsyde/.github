@@ -1,6 +1,6 @@
 ### Hi, We are Syde 👋
 
-![Syde Welcome](https://raw.githubusercontent.com/syde/.github/master/profile/header.jpg?raw=true)
+![Syde Welcome](https://raw.githubusercontent.com/inpsyde/.github/master/profile/header.jpg?raw=true)
 
 ## More
 :page_with_curl: Our site [syde.com](https://syde.com/)<br>

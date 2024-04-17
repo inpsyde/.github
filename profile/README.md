@@ -4,6 +4,6 @@
 
 ## More
 :page_with_curl: Our site [syde.com](https://syde.com/)<br>
-:speech_balloon: On X [inpsyde](https://twitter.com/inpsyde)<br>
+:speech_balloon: On X [syde_gmbh](https://twitter.com/syde_gmbh)<br>
 :thought_balloon: On Mastodon [@inpsyde@mastodon.social](https://mastodon.social/@inpsyde)<br>
-:link: On LinkedIn [company/inpsyde-gmbh](https://www.linkedin.com/company/inpsyde-gmbh/)
+:link: On LinkedIn [company/syde-gmbh](https://www.linkedin.com/company/syde-gmbh/)

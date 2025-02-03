@@ -13,5 +13,7 @@ GitHub supports [multiple issue templates](https://help.github.com/articles/abou
 ## How to create issue and PR templates?
 [About issue and pull request templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates)
 
-## License and copyright
-This repository is a free software, and is released under the terms of the MIT license. See [LICENSE](./LICENSE) for complete license.
+## Copyright and License
+
+Good news, this library is free for everyone! Since it's released under the MIT License you can use it free of charge on your personal or commercial website.
+

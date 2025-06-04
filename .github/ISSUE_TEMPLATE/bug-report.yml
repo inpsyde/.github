@@ -13,14 +13,14 @@ body:
       label: Description of the bug
       description: A clear and concise description of what the bug is.
       placeholder: |
-        Feature '…' is not working properly. I expect '…' to happen, but '…' happens instead.
+        Feature '…' is not working correctly. I expect '…' to happen, but '…' happens instead.
     validations:
       required: true
   - type: textarea
     id: reproduction
     attributes:
       label: Reproduction instructions
-      description: Please write the steps needed to reproduce the bug.
+      description: Please describe the steps needed to reproduce the bug.
       placeholder: |
         1. Go to '…'
         2. Click on '…'
@@ -50,7 +50,7 @@ body:
     id: log
     attributes:
       label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so there is no need for backticks.
       render: shell
   - type: textarea
     id: context

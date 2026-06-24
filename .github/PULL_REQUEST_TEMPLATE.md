@@ -3,21 +3,42 @@
 - [ ] Tests for the changes have been added (for bug fixes/features)
 - [ ] Docs have been added/updated (for bug fixes/features)
 
+---
 
 ## What kind of change does this PR introduce? (Bug fix, feature, docs update, ...)
 
 
+---
 
 ## What is the current behavior? (You can also link to an open issue here)
 
 
+---
 
 ## What is the new behavior (if this is a feature change)?
 
 
+---
 
 ## Does this PR introduce a breaking change? (What changes might users need to make in their application due to this PR?)
 
+---
 
+## Security impact
+
+<!-- 
+  Required if this PR touches: auth, authorization, payments, external data,
+  file uploads, direct DB queries, or privileged operations.
+  If none: write "none" and delete the fields below.
+-->
+
+**What changed (security perspective):**
+
+**Testing done:**
+
+**Residual risk (link Jira if any):**
+
+
+---
 
 ## Other information
